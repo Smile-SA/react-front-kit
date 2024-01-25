@@ -1,6 +1,6 @@
 {
   "name": "@smile/react-front-kit",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "description": "React component library based on mantine",
   "license": "MIT",
   "homepage": "https://github.com/Smile-SA/react-front-kit",
@@ -61,7 +61,7 @@
     "prepublishOnly": "npm run build && node ../../scripts/prepublish.mjs"
   },
   "dependencies": {
-    "@smile/react-front-kit-shared": "0.8.1",
+    "@smile/react-front-kit-shared": "0.9.0",
     "pretty-bytes": "^6.1.1"
   },
   "devDependencies": {

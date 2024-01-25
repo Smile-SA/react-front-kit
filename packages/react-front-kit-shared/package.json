@@ -1,6 +1,6 @@
 {
   "name": "@smile/react-front-kit-shared",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "description": "Shared elements for react-front-kit component library based on mantine",
   "license": "MIT",
   "homepage": "https://github.com/Smile-SA/react-front-kit",
