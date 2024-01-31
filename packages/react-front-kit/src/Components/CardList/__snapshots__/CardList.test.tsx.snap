@@ -1,0 +1,297 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardList matches snapshot 1`] = `
+<div>
+  <div
+    class="mantine-ScrollArea-root mantine-e9uey"
+    dir="ltr"
+    style="position: relative; --radix-scroll-area-corner-width: 0px; --radix-scroll-area-corner-height: 0px;"
+  >
+    <style>
+      [data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}
+    </style>
+    <div
+      class="mantine-b6zkvl mantine-ScrollArea-viewport"
+      data-radix-scroll-area-viewport=""
+      style="overflow-x: scroll; overflow-y: scroll;"
+    >
+      <div
+        style="min-width: 100%; display: table;"
+      >
+        <div
+          class="mantine-Stack-root mantine-1ute00k"
+        >
+          <div
+            class="mantine-1hf096k"
+          >
+            <div
+              class="mantine-1pure0w"
+            >
+              <span>
+                Lorem ipsum dolor sit amet consectetur. Sollicitudin mattis blandit aliquet odio urna mi id. Mauris venenatis ut et at amet vel est.
+              </span>
+              <div
+                class="mantine-73o8aw"
+                style="width: 100%;"
+              >
+                <button
+                  class="mantine-UnstyledButton-root mantine-Button-root mantine-72wjox"
+                  data-button="true"
+                  type="button"
+                >
+                  <div
+                    class="mantine-1wpc1xj mantine-Button-inner"
+                  >
+                    <span
+                      class="mantine-1ryt1ht mantine-Button-label"
+                    >
+                      Approved
+                    </span>
+                  </div>
+                </button>
+                <div
+                  class="mantine-1qizhnu"
+                >
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M216,112v96a16,16,0,0,1-16,16H56a16,16,0,0,1-16-16V112A16,16,0,0,1,56,96H80a8,8,0,0,1,0,16H56v96H200V112H176a8,8,0,0,1,0-16h24A16,16,0,0,1,216,112ZM93.66,69.66,120,43.31V136a8,8,0,0,0,16,0V43.31l26.34,26.35a8,8,0,0,0,11.32-11.32l-40-40a8,8,0,0,0-11.32,0l-40,40A8,8,0,0,0,93.66,69.66Z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M247.31,124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57,61.26,162.88,48,128,48S61.43,61.26,36.34,86.35C17.51,105.18,9,124,8.69,124.76a8,8,0,0,0,0,6.5c.35.79,8.82,19.57,27.65,38.4C61.43,194.74,93.12,208,128,208s66.57-13.26,91.66-38.34c18.83-18.83,27.3-37.61,27.65-38.4A8,8,0,0,0,247.31,124.76ZM128,192c-30.78,0-57.67-11.19-79.93-33.25A133.47,133.47,0,0,1,25,128,133.33,133.33,0,0,1,48.07,97.25C70.33,75.19,97.22,64,128,64s57.67,11.19,79.93,33.25A133.46,133.46,0,0,1,231.05,128C223.84,141.46,192.43,192,128,192Zm0-112a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z"
+                      />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="mantine-1hf096k"
+          >
+            <div
+              class="mantine-1pure0w"
+            >
+              <span>
+                Lorem ipsum dolor sit amet consectetur. Sollicitudin mattis blandit aliquet odio urna mi id. Mauris venenatis ut et at amet vel est.
+              </span>
+              <div
+                class="mantine-73o8aw"
+                style="width: 100%;"
+              >
+                <button
+                  class="mantine-UnstyledButton-root mantine-Button-root mantine-72wjox"
+                  data-button="true"
+                  type="button"
+                >
+                  <div
+                    class="mantine-1wpc1xj mantine-Button-inner"
+                  >
+                    <span
+                      class="mantine-1ryt1ht mantine-Button-label"
+                    >
+                      Approved
+                    </span>
+                  </div>
+                </button>
+                <div
+                  class="mantine-1qizhnu"
+                >
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M216,112v96a16,16,0,0,1-16,16H56a16,16,0,0,1-16-16V112A16,16,0,0,1,56,96H80a8,8,0,0,1,0,16H56v96H200V112H176a8,8,0,0,1,0-16h24A16,16,0,0,1,216,112ZM93.66,69.66,120,43.31V136a8,8,0,0,0,16,0V43.31l26.34,26.35a8,8,0,0,0,11.32-11.32l-40-40a8,8,0,0,0-11.32,0l-40,40A8,8,0,0,0,93.66,69.66Z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M247.31,124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57,61.26,162.88,48,128,48S61.43,61.26,36.34,86.35C17.51,105.18,9,124,8.69,124.76a8,8,0,0,0,0,6.5c.35.79,8.82,19.57,27.65,38.4C61.43,194.74,93.12,208,128,208s66.57-13.26,91.66-38.34c18.83-18.83,27.3-37.61,27.65-38.4A8,8,0,0,0,247.31,124.76ZM128,192c-30.78,0-57.67-11.19-79.93-33.25A133.47,133.47,0,0,1,25,128,133.33,133.33,0,0,1,48.07,97.25C70.33,75.19,97.22,64,128,64s57.67,11.19,79.93,33.25A133.46,133.46,0,0,1,231.05,128C223.84,141.46,192.43,192,128,192Zm0-112a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z"
+                      />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="mantine-1hf096k"
+          >
+            <div
+              class="mantine-1pure0w"
+            >
+              <span>
+                Lorem ipsum dolor sit amet consectetur. Sollicitudin mattis blandit aliquet odio urna mi id. Mauris venenatis ut et at amet vel est.
+              </span>
+              <div
+                class="mantine-73o8aw"
+                style="width: 100%;"
+              >
+                <button
+                  class="mantine-UnstyledButton-root mantine-Button-root mantine-72wjox"
+                  data-button="true"
+                  type="button"
+                >
+                  <div
+                    class="mantine-1wpc1xj mantine-Button-inner"
+                  >
+                    <span
+                      class="mantine-1ryt1ht mantine-Button-label"
+                    >
+                      Approved
+                    </span>
+                  </div>
+                </button>
+                <div
+                  class="mantine-1qizhnu"
+                >
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M216,112v96a16,16,0,0,1-16,16H56a16,16,0,0,1-16-16V112A16,16,0,0,1,56,96H80a8,8,0,0,1,0,16H56v96H200V112H176a8,8,0,0,1,0-16h24A16,16,0,0,1,216,112ZM93.66,69.66,120,43.31V136a8,8,0,0,0,16,0V43.31l26.34,26.35a8,8,0,0,0,11.32-11.32l-40-40a8,8,0,0,0-11.32,0l-40,40A8,8,0,0,0,93.66,69.66Z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M247.31,124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57,61.26,162.88,48,128,48S61.43,61.26,36.34,86.35C17.51,105.18,9,124,8.69,124.76a8,8,0,0,0,0,6.5c.35.79,8.82,19.57,27.65,38.4C61.43,194.74,93.12,208,128,208s66.57-13.26,91.66-38.34c18.83-18.83,27.3-37.61,27.65-38.4A8,8,0,0,0,247.31,124.76ZM128,192c-30.78,0-57.67-11.19-79.93-33.25A133.47,133.47,0,0,1,25,128,133.33,133.33,0,0,1,48.07,97.25C70.33,75.19,97.22,64,128,64s57.67,11.19,79.93,33.25A133.46,133.46,0,0,1,231.05,128C223.84,141.46,192.43,192,128,192Zm0-112a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z"
+                      />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="mantine-1hf096k"
+          >
+            <div
+              class="mantine-1pure0w"
+            >
+              <span>
+                Lorem ipsum dolor sit amet consectetur. Sollicitudin mattis blandit aliquet odio urna mi id. Mauris venenatis ut et at amet vel est.
+              </span>
+              <div
+                class="mantine-73o8aw"
+                style="width: 100%;"
+              >
+                <button
+                  class="mantine-UnstyledButton-root mantine-Button-root mantine-72wjox"
+                  data-button="true"
+                  type="button"
+                >
+                  <div
+                    class="mantine-1wpc1xj mantine-Button-inner"
+                  >
+                    <span
+                      class="mantine-1ryt1ht mantine-Button-label"
+                    >
+                      Approved
+                    </span>
+                  </div>
+                </button>
+                <div
+                  class="mantine-1qizhnu"
+                >
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M216,112v96a16,16,0,0,1-16,16H56a16,16,0,0,1-16-16V112A16,16,0,0,1,56,96H80a8,8,0,0,1,0,16H56v96H200V112H176a8,8,0,0,1,0-16h24A16,16,0,0,1,216,112ZM93.66,69.66,120,43.31V136a8,8,0,0,0,16,0V43.31l26.34,26.35a8,8,0,0,0,11.32-11.32l-40-40a8,8,0,0,0-11.32,0l-40,40A8,8,0,0,0,93.66,69.66Z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-tos26d"
+                    type="button"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="20"
+                      viewBox="0 0 256 256"
+                      width="20"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M247.31,124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57,61.26,162.88,48,128,48S61.43,61.26,36.34,86.35C17.51,105.18,9,124,8.69,124.76a8,8,0,0,0,0,6.5c.35.79,8.82,19.57,27.65,38.4C61.43,194.74,93.12,208,128,208s66.57-13.26,91.66-38.34c18.83-18.83,27.3-37.61,27.65-38.4A8,8,0,0,0,247.31,124.76ZM128,192c-30.78,0-57.67-11.19-79.93-33.25A133.47,133.47,0,0,1,25,128,133.33,133.33,0,0,1,48.07,97.25C70.33,75.19,97.22,64,128,64s57.67,11.19,79.93,33.25A133.46,133.46,0,0,1,231.05,128C223.84,141.46,192.43,192,128,192Zm0-112a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z"
+                      />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
