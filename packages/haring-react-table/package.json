@@ -1,6 +1,6 @@
 {
   "name": "@smile/haring-react-table",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "description": "Table React component library based on mantine",
   "license": "LGPL-3.0",
   "homepage": "https://github.com/Smile-SA/haring",
@@ -69,8 +69,8 @@
     "prepublishOnly": "npm run build && node ../../scripts/prepublish.mjs"
   },
   "dependencies": {
-    "@smile/haring-react": "0.14.0",
-    "@smile/haring-react-shared": "0.14.0"
+    "@smile/haring-react": "0.15.0",
+    "@smile/haring-react-shared": "0.15.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
