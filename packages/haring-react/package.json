@@ -1,6 +1,6 @@
 {
   "name": "@smile/haring-react",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "description": "React component library based on mantine",
   "license": "LGPL-3.0",
   "homepage": "https://github.com/Smile-SA/haring",
@@ -69,7 +69,7 @@
     "prepublishOnly": "npm run build && node ../../scripts/prepublish.mjs"
   },
   "dependencies": {
-    "@smile/haring-react-shared": "0.14.0",
+    "@smile/haring-react-shared": "0.15.0",
     "pretty-bytes": "^6.1.1"
   },
   "devDependencies": {

@@ -1,5 +1,11 @@
 # @smile/haring-react-shared
 
+## 0.15.0
+
+### Minor Changes
+
+- [#194](https://github.com/Smile-SA/haring/pull/194) [`97a610a`](https://github.com/Smile-SA/haring/commit/97a610aa02b86423b723ef8ae5d45e8ecf346f92) Thanks [@vapersmile](https://github.com/vapersmile)! - Upgrade mantine version to 7.11.x
+
 ## 0.14.0
 
 ## 0.13.0

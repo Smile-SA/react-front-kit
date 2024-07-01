@@ -1,5 +1,23 @@
 # storybook-pages
 
+## 0.15.0
+
+### Minor Changes
+
+- [#194](https://github.com/Smile-SA/haring/pull/194) [`97a610a`](https://github.com/Smile-SA/haring/commit/97a610aa02b86423b723ef8ae5d45e8ecf346f92) Thanks [@vapersmile](https://github.com/vapersmile)! - Upgrade mantine version to 7.11.x
+
+- [#193](https://github.com/Smile-SA/haring/pull/193) [`ddc0675`](https://github.com/Smile-SA/haring/commit/ddc067529c2b23dc0704e41eb74f867c86e5f63a) Thanks [@subraAntoine](https://github.com/subraAntoine)! - Add AgendaPage, Add subject modal
+
+- [#190](https://github.com/Smile-SA/haring/pull/190) [`d041703`](https://github.com/Smile-SA/haring/commit/d04170383484eae2b05f9485d7084c3068a6e70d) Thanks [@QuentinLeCaignec](https://github.com/QuentinLeCaignec)! - Added AgendaItemPage to storybook pages, Added selectedValue and onSelectedChange props to SidebarMenu
+
+### Patch Changes
+
+- Updated dependencies [[`97a610a`](https://github.com/Smile-SA/haring/commit/97a610aa02b86423b723ef8ae5d45e8ecf346f92), [`d041703`](https://github.com/Smile-SA/haring/commit/d04170383484eae2b05f9485d7084c3068a6e70d)]:
+  - @smile/haring-react-dropzone@0.15.0
+  - @smile/haring-react-shared@0.15.0
+  - @smile/haring-react-table@0.15.0
+  - @smile/haring-react@0.15.0
+
 ## 0.14.0
 
 ### Minor Changes
